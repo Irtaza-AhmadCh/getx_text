@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560505393019",
+    "project_id": "getxtexts",
+    "storage_bucket": "getxtexts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560505393019:android:4ad23854d0952b4a82b7de",
+        "android_client_info": {
+          "package_name": "com.example.getx_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPxeQ2hOYRADmJnyeSWLBJF7njvOITd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560505393019:android:62310b464bc990d082b7de",
+        "android_client_info": {
+          "package_name": "com.example.getx_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPxeQ2hOYRADmJnyeSWLBJF7njvOITd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
